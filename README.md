@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating soluciones desde... este mismo año<br>📚 Actualmente estoy aprendiendo un poco de todo<br>🎯 Objetivos: Ser cada vez mejor</p>
+<p align="left">✨ Creando soluciones desde... este mismo año<br>📚 Actualmente estoy aprendiendo un poco de todo<br>🎯 Objetivos: Ser cada vez mejor</p>
 
 ###
 
