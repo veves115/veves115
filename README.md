@@ -1,18 +1,5 @@
-<h1 align="left">HEY 🤚</h1>
+<h1 align="left">HOLA 🤚</h1>
 
-###
-
-<p align="left">Me llamo Pablo y soy de España</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Estudiando 2º DAW<br>📚 Actualmente estoy aprendiendo un poco de todo<br>🎯 Objetivos: Ser cada vez mejor</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
