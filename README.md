@@ -18,7 +18,7 @@ Located in Madrid, Spain | 🤝 I am looking for a job as a junior web developer
 
 I recently graduated with a degree in Web Development. I completed my internship in Indra Minsait where I worked on the development of a quality assurance service with integrated AI functionality — this included working with LLM, RAG, and Spring AI in the framework of the Java Spring Boot + Vue 3 + TypeScript stack.
 
-I am eager to learn more about prompt engineering and multi-agent concepts. Also focused on fully knowing more technologies like Java, React, cloud and SQL Databases.  
+I am eager to learn more about prompt engineering and multi-agent concepts. Also focused on learning more technologies like Java, React, cloud and SQL Databases.  
 Fun fact: I take pleasure in transforming messy specifications into ready-to-test plans (with a little help of AI).
 
 <div align="left">
