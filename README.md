@@ -19,7 +19,7 @@ Located in Madrid, Spain | 🤝 I am looking for a job as a junior web developer
 I recently graduated with a degree in Web Development. I completed my internship in Indra Minsait where I worked on the development of a quality assurance service with integrated AI functionality — this included working with LLM, RAG, and Spring AI in the framework of the Java Spring Boot + Vue 3 + TypeScript stack.
 
 I am eager to learn more about prompt engineering and multi-agent concepts. Also focused on fully knowing more technologies like Java, React, cloud and SQL Databases.  
-Fun fact: I take pleasure in transforming messy specifications into ready-to-test plans while applying the help of AI.
+Fun fact: I take pleasure in transforming messy specifications into ready-to-test plans (with a little help of AI).
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
@@ -41,4 +41,8 @@ Fun fact: I take pleasure in transforming messy specifications into ready-to-tes
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
 </a>
 
-![pacman](https://raw.githubusercontent.com/veves115/veves115/pacman-output/pacman-contribution-graph.svg?game=pacman)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veves115/veves115/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veves115/veves115/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/veves115/veves115/pacman-output/pacman-contribution-graph.svg">
+</picture>

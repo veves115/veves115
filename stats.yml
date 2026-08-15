@@ -1,0 +1,53 @@
+name: Update stats cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false
+          path: stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&locale=en&hide_border=false
+          path: languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards to stats-output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan stats-output
+          git rm -rf . > /dev/null 2>&1 || true
+          git add stats.svg languages.svg
+          git commit -m "Update stats cards" || true
+          git push -f origin stats-output
+
+      - name: Commit languages card to languages-output branch
+        run: |
+          cp languages.svg /tmp/languages.svg
+          git checkout --orphan languages-output
+          git rm -rf . > /dev/null 2>&1 || true
+          cp /tmp/languages.svg languages.svg
+          git add languages.svg
+          git commit -m "Update languages card" || true
+          git push -f origin languages-output
