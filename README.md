@@ -1,77 +1,63 @@
-<h1 align="center">Hi there, I'm Pablo Ares 👋</h1>
-<h3 align="center">Junior Web Developer | Fullstack · AI Integration</h3>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=60&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<p align="center">
-   Higher Vocational Degree in Web Application Development (DAW)<br>
-   Former Software Developer Intern at <b>Indra Minsait</b><br>
-   Interested in AI-powered applications: LLMs, RAG, Spring AI<br>
-   Madrid, Spain &nbsp;|&nbsp; 🌐 Open to junior web developer roles
-</p>
+###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<h2 data-importer="text" align="left">Hola!👋 Mi nombre es Pablo Ares</h2>
 
----
+###
 
-### 🚀 About Me
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/veves115/veves115/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/veves115/veves115/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I'm a recently graduated Web Developer with hands-on, real-world experience gained during my internship at **Indra Minsait**, where I helped build a quality-assurance platform with integrated AI features — working with **LLMs, RAG (Retrieval-Augmented Generation), and Spring AI** on a Java Spring Boot + Vue 3 + TypeScript stack.
+###
 
--  Learning more about prompt engineering and multi-agent architectures
--  Ask me about Vue.js, Spring Boot, or integrating LLMs into real applications
--  Fun fact: I enjoy turning messy requirements into clean, testable specs (with a little help from AI)
+<p data-importer="text" align="center">Junior Web Developer | Fullstack | AI Integration<br>Higher Vocational Degree in Web Development (DAW)<br>Previous Internship Experience in Software Development (Indra Minsait)<br>Applications powered by AI catch my interest: LLM, RAG, Spring AI<br>Located in Madrid, Spain  |  🤝 I am looking for a job as a junior web developer<br><br>🚀 About Me<br>I recently graduated with a degree in Web Development. I completed my internship in Indra Minsait where I worked on the development of a quality assurance service with integrated AI functionality — this included working with LLM, RAG, and Spring AI in the framework of the Java Spring Boot + Vue 3 + TypeScript stack.<br><br>I am eager to learn more about prompt engineering and multi-agent concepts. Also focused on fully knowing more technologies like Java,React,cloud and SQL Databases<br>Fun fact: I take pleasure in transforming messy specifications into ready-to-test plans while applying the help of AI.</p>
 
----
+###
 
-### 🛠️ Tech Stack
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+</div>
 
-**Frontend**
+###
 
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-</p>
+<div data-importer="socials" align="left">
+  <a href="pabloarescol@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/pablo-ares-borrero-0647a51a9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-**Backend**
+###
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veves115/veves115/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veves115/veves115/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/veves115/veves115/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-**Databases & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-</p>
-
-**AI / LLM**
-
-<p>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Vector_Stores-4B8BBE?style=flat-square">
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pablo-ares-borrero-0647a51a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="pabloarescol@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<p align="center"><i>🟢 Open to junior web developer opportunities</i></p>
+###
